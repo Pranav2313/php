@@ -6,5 +6,5 @@ to start the project you have to go to applicationlayer (FOLDER) and open the Do
 There is an expected error in the patient and doctor login but once you login this error will vanish
 
 
-The project database structure is in the datalayer (FOLDER) - SQL DATABASE EXPORT 
+The project database structure is in the datalayer (FOLDER) - doctorappointment.sql 
 and its called registration(1)
